@@ -1,5 +1,6 @@
 .env
-*.txt
+bot token.txt
+telegram private channel.txt
 __pycache__/
 *.pyc
 .venv/
